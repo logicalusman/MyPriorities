@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Spacings to help us to stick to an 8dp grid as specified in the Material Design guidelines here:
+     https://material.google.com/layout/metrics-keylines.html#metrics-keylines-baseline-grids-->
+    <dimen name="grid_minus_0.5x">-4dp</dimen>
+    <dimen name="grid_0.25x">2dp</dimen>
+    <dimen name="grid_0.5x">4dp</dimen>
+    <dimen name="grid_0.75x">6dp</dimen>
+    <dimen name="grid_1x">8dp</dimen>
+    <dimen name="grid_1.5x">12dp</dimen>
+    <dimen name="grid_2x">16dp</dimen>
+    <dimen name="grid_2.5x">20dp</dimen>
+    <dimen name="grid_3x">24dp</dimen>
+    <dimen name="grid_4x">32dp</dimen>
+    <dimen name="grid_4.5x">36dp</dimen>
+    <dimen name="grid_5x">40dp</dimen>
+    <dimen name="grid_5.5x">44dp</dimen>
+    <dimen name="grid_6x">48dp</dimen>
+    <dimen name="grid_6.5x">52dp</dimen>
+    <dimen name="grid_7x">56dp</dimen>
+    <dimen name="grid_8x">64dp</dimen>
+    <dimen name="grid_9x">72dp</dimen>
+    <dimen name="grid_10x">80dp</dimen>
+    <dimen name="grid_11x">88dp</dimen>
+    <dimen name="grid_12x">96dp</dimen>
+    <dimen name="grid_13x">104dp</dimen>
+    <dimen name="grid_15x">120dp</dimen>
+    <dimen name="grid_16x">128dp</dimen>
+    <dimen name="grid_18x">144dp</dimen>
+    <dimen name="grid_20x">160dp</dimen>
+    <dimen name="grid_21x">168dp</dimen>
+    <dimen name="grid_22x">176dp</dimen>
+    <dimen name="grid_23x">184dp</dimen>
+    <dimen name="grid_25x">200dp</dimen>
+    <dimen name="grid_30x">240dp</dimen>
+    <dimen name="grid_32x">256dp</dimen>
+    <dimen name="grid_34x">272dp</dimen>
+    <dimen name="grid_40x">320dp</dimen>
+    <dimen name="grid_50x">400dp</dimen>
+    <dimen name="grid_70x">560dp</dimen>
+</resources>

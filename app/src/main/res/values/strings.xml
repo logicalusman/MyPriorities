@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MyPriorities</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="date_hint">Date DD-MM-YYYY</string>
+    <string name="time_hint">Time HH:MM</string>
+    <string name="create">Create</string>
+    <string name="new_priority">New Priority</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="priority_description_error_msg">Description must be 3 characters or more</string>
+    <string name="invalid_date">Invalid date</string>
+    <string name="priority_date_time_today_or_future">Priority date and time (together) must be greater than current date and time</string>
+    <string name="invalid_time">Invalid time</string>
+    <string name="home">Home</string>
+    <string name="error">Error</string>
+    <string name="network_error">A network error has occurred. Please make sure your device is connected to the internet</string>
+    <string name="unknown_error">Unknown Error</string>
+    <string name="connection_timeout">Connection has timed out</string>
+</resources>

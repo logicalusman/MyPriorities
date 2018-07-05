@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="base_url">https://ft-linkusman21.oraclecloud2.dreamfactory.com/api/v2/</string>
+    <string name="path_login">user/session</string>
+    <string name="path_get_priorities">db/_table/todo_list</string>
+
+    <string name="header_dreamfactory_api_key">X-DreamFactory-API-Key</string>
+    <string name="header_dreamfactory_session_token">X-DreamFactory-Session-Token</string>
+    <string name="app_key">6498a8ad1beb9d84d63035c5d1120c007fad6de706734db9689f8996707e0f7d</string>
+
+</resources>
